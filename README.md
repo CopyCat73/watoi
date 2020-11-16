@@ -11,10 +11,10 @@ Migrate Whatsapp chats history from Android to iOS.
 
 * Mac with installed Xcode and iTunes
 * Decrypted `msgstore.db` from Android:
-  1. Download and unzip https://github.com/p4r4d0x86/WhatsApp-Key-DB-Extractor/archive/v4.7-E1.0.zip
-  2. Download http://whatcrypt.com/WhatsApp-2.11.431.apk
-  3. Put the downloaded apk in the tmp folder of the unzipped project from step 1. Delete LegacyWhatsApp.apk and rename the WhatsApp apk to LegacyWhatsApp.apk
-  4. Follow the steps from here:https://forum.xda-developers.com/showthread.php?p=81902381#post81902381 (you have already done the first part of the steps). 
+1. Download and unzip https://github.com/p4r4d0x86/WhatsApp-Key-DB-Extractor/archive/v4.7-E1.0.zip
+2. Download http://whatcrypt.com/WhatsApp-2.11.431.apk
+3. Put the downloaded apk in the tmp folder of the unzipped project from step 1. Delete LegacyWhatsApp.apk and rename the WhatsApp apk to LegacyWhatsApp.apk
+4. Follow the steps from here:https://forum.xda-developers.com/showthread.php?p=81902381#post81902381 (you have already done the first part of the steps). 
   
 * Installed and activated Whatsapp on your iDevice
 * `Whatsapp.ipa` of the same version (google will help)
